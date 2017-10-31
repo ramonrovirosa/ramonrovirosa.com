@@ -1,0 +1,12 @@
+* {
+  font-family: 'Archivo Narrow', sans-serif;
+}
+
+body {
+  background:url('../images/background.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+#root {
+  text-align: center;
+}

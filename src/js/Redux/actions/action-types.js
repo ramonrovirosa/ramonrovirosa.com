@@ -1,0 +1,6 @@
+//Contact
+export const GET_CONTACT_EMAIL = 'GET_CONTACT_EMAIL';
+export const SET_CONTACT_EMAIL = 'SET_CONTACT_EMAIL';
+
+//Travel
+export const SET_TRAVEL_CONTENT = 'SET_TRAVEL_CONTENT';

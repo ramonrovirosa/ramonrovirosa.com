@@ -1,0 +1,17 @@
+.nav-bar{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+.nav-bar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.nav-bar a:hover{
+    text-decoration: underline;
+}
